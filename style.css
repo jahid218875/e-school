@@ -119,5 +119,47 @@ footer .fab:hover{
     transform: scale(1.1);
 }
 
+@media(max-width:575px){
+    #testimonial-img{
+        text-align: center !important;
+        margin-bottom: 20px;
+    }
+    #subscribe{
+        width: 90%;
+    }
+    #subscribe .send-mail{
+        width: 70%;
+    }
+    .banner-area h1 {
+        font-size: 34px;
+        font-weight: 700;
+        line-height: initial;
+    }
+    .fab{
+        text-align: center;
+    }
+    .footer-1{
+        text-align: center;
+    }
+    footer .footer-link{
+        text-align: center;
+        margin-left: 40px;
+    }
+   
+}
+@media(max-width:767px){
+    #testimonial-img{
+        text-align: center !important;
+        margin-bottom: 20px;
+    }
+    #subscribe{
+        width: 90%;
+    }
+    #subscribe .send-mail{
+        width: 70%;
+    }
+
+}
+
 
 
