@@ -1,0 +1,112 @@
+/*Header area start*/
+
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.header-area{
+    background-color: #F0FFF0;
+}
+#logo{
+    width: 180px;
+}
+.buttons{
+    padding: 10px 25px;
+    border-radius: 20px;
+    font-size: 13px;
+    
+}
+
+/*Header area end*/
+
+/*Banner area start*/
+
+.banner-area{
+    background-color:#F0FFF0;
+    padding: 100px 120px;
+}
+.banner-area h1{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: initial;
+}
+
+/*Banner area end*/
+
+/*Icon area start*/
+
+.icon-card{
+    border: none;
+    background-color:#F0FFF0 ;
+    transition: 0.4s;
+}
+.icon-card:hover{
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 2px 2px 10px lightgray;
+    transform: scale(1.1);
+}
+
+/*Icon area end*/
+
+/*Courses area start*/
+
+.course-card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px lightgray;
+    transition: 0.4s;
+}
+.course-card:hover{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px lightgray;
+    transform: scale(1.1);
+}
+h2{
+    margin: 90px 0;
+}
+
+/*Courses area end*/
+/*subscribe area start*/
+
+#subscribe{
+    height: 300px;
+    margin-top: 100px;
+    background-color:#c2f0c2 ;
+}
+#subscribe h6{
+    color: gray;
+}
+.send-mail{
+    padding: 10px 70px;
+    color: gray;
+    border-radius: 5px;
+    border: none;
+}
+
+/*subscribe area start*/
+/*footer area start*/
+footer{
+    padding: 60px 10px;
+}
+footer p{
+    font-size: 14px;
+    padding: 0 100px;
+}
+#footer-text{
+    color: white;
+    text-align: center;
+    margin: 70px 0 -30px 0;
+    
+}
+
+footer .container a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    padding: 5px 0;
+}
+
+
+
