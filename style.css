@@ -74,6 +74,7 @@ h2{
     height: 300px;
     margin-top: 100px;
     background-color:#c2f0c2 ;
+    border-radius: 10px;
 }
 #subscribe h6{
     color: gray;
